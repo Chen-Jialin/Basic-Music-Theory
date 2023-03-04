@@ -13,4 +13,4 @@ cd ./src/demo
 xelatex -interaction=nonstopmode -file-line-error demo.tex
 ```
 
-若你用 VSCode, 则可借助 `./vscode/task.json` 中自定义的任务自动完成构建和辅助文件的清理.
+若你用 VSCode, 则可借助 `./vscode/task.json` 中自定义的任务自动完成构建.
